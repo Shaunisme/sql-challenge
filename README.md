@@ -1,3 +1,16 @@
+### Create an image file of your ERD.
+https://github.com/Shaunisme/sql-challenge/blob/main/QuickDBD-EmployeeDB.png
+
+### Create a .sql file of your table schemata.
+https://github.com/Shaunisme/sql-challenge/blob/main/EmployeeSQL/QuickDBD-export-EmployeeDB.sql
+
+### Create a .sql file of your queries.
+https://github.com/Shaunisme/sql-challenge/blob/main/EmployeeSQL/Query.sql
+
+### Create a Jupyter notebook of the bonus analysis.
+https://github.com/Shaunisme/sql-challenge/blob/main/bonus.ipynb
+
+
 # Unit 9 Homework: Employee Database
 
 ## Background
